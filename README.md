@@ -6,7 +6,7 @@ Syntax highlighting for [codegrabber](https://github.com/akoenig/codegrabber) wi
 
 1. Install [codegrabber](https://github.com/akoenig/codegrabber).
 
-2. Include `codegrabber-highlightjs` in your HTML (see `build` directory).
+2. Include `codegrabber-highlightjs.min.js` in your HTML (see `build` directory).
 
 3. Enjoy :)
 
