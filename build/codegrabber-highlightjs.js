@@ -26,4 +26,4 @@ codegrabber.Hooks.register({
     run : function run (element) {
         hljs.highlightBlock(element);
     }
-})
+});
