@@ -14,7 +14,7 @@ Syntax highlighting for [codegrabber](https://github.com/akoenig/codegrabber) wi
 
 ## Changelog
 
-### Version 0.1.0
+### Version 0.1.0 (20140514)
 
 - Initial version.
 
