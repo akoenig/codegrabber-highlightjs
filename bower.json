@@ -1,0 +1,25 @@
+{
+  "name": "codegrabber-highlightjs",
+  "version": "0.1.0",
+  "author": "André König (andre.koenig@posteo.de)",
+  "description": "Syntax highlighting for codegrabber with highlight.js.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akoenig/codegrabber-highlightjs.git"
+  },
+  "main": "./build/codegrabber-highlightjs.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "example",
+    "lib",
+    "specs",
+    ".jshintrc",
+    ".npmignore",
+    ".travis.yml",
+    "gulpfile.js",
+    "package.json"
+  ]
+}

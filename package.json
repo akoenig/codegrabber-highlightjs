@@ -1,0 +1,27 @@
+{
+  "name": "codegrabber-highlightjs",
+  "version": "0.1.0",
+  "description": "Syntax highlighting for codegrabber with highlight.js.",
+  "author": {
+    "name": "André König",
+    "email": "andre.koenig@posteo.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akoenig/codegrabber-highlightjs.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.3.3",
+    "bunchitos": "^0.1.1",
+    "gulp": "^3.6.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-header": "^1.0.2",
+    "gulp-jshint": "^1.5.0",
+    "gulp-karma": "0.0.4",
+    "gulp-uglify": "^0.3.0",
+    "karma": "^0.12.16",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
